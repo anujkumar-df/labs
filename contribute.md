@@ -1,4 +1,4 @@
-## Contributing to Tutorials ##
+## Contributing to Tutorials ## Change this
 
 Thank you so much for your interest in contributing to [Docker](https://docker.com) tutorials. Docker has open source in its DNA, and has always worked closely with the community.
 
